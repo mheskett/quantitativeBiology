@@ -1,0 +1,4 @@
+Michael Heskett
+Hw1 Conj 671 Zuckerman Lectures
+
+1. Explain, as best as you can, why simulation data should be averaged without weighting.
